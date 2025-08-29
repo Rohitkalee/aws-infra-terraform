@@ -82,10 +82,3 @@ This project automates the deployment of a **secure** and **scalable** cloud inf
 
 ---
 
-## 👨‍💻 Author  
-Kadali Jayanth Kumar 
-🎓 jayanthkumarkadali25@gmail.com   
-🔗 [(https://www.linkedin.com/in/jayanth-kadali-419798182)]
-
----
-
