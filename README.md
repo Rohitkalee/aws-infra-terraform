@@ -59,26 +59,5 @@ This project automates the deployment of a **secure** and **scalable** cloud inf
 5. **Apply the Deployment:**
    - Run `terraform apply` to create the infrastructure on AWS.
 
-## Screen Shots
-- **Main VPC**
-![Alt text](images/vpc.png)
-
-- **Load Balancer (Internal and External)**
-![Alt text](images/loadbalancers.png)
-
-- **S3 Bucket (Terraform State Storage)**
-![Alt text](images/s3.png)
-
-- **EC2 Instances**
-![Alt text](images/ec2.png)
-
-- **DyanamoDb (Terraform State lock)**
-![Alt text](images/dyanamodb-lock.png)
-
-
-- **Testing with External Load Balancer DNS**
-![Alt text](images/elb-test.png)
-
-
 ---
 
